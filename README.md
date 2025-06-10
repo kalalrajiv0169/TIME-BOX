@@ -16,7 +16,7 @@ A simple web-based tool that allows users to create, edit, and export time block
 
 ### Output
 <p align="center">
- <img src="https://i.postimg.cc/HnY9QKYL/2025-06-10-1.png"
+<img src="https://i.ibb.co/HTF943vc/2025-06-10-1-landscape.png" alt="2025-06-10-1-landscape" border="0"></a>
 </p>
 
 ## How to Use
